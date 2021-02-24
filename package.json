@@ -1,0 +1,10 @@
+{
+  "name": "cypress_home_work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tetiana Klots",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^6.5.0"
+  }
+}
